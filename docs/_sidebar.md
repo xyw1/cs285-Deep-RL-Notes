@@ -1,7 +1,7 @@
 * [首页](README.md)
 * [课程索引](index.md)
-
 * 讲义笔记
+
   * [Lecture 01](lectures/lecture01/part1.md)
     * [Part 1](lectures/lecture01/part1.md)
     * [Part 2](lectures/lecture01/part2.md)
